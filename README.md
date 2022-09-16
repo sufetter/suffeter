@@ -4,6 +4,8 @@
 - 💞️ Now I am a beginner react developer and would be glad to receive advice and useful information from everyone.
 - 📫 How to contact me, my email is --> lobunetsdaniil@yandex.ru or vk.com/mrhenschel (2nd method is preferable).
 
+Deployed Projects:
+
 Game Store
 https://game-shop-alpha.netlify.app
 
