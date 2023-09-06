@@ -5,6 +5,6 @@
 - 💞️ I am a Backend developer and would be glad to receive advice and useful information from everyone.
 - 📫 How to contact me, my email is --> lobunetsdaniil@yandex.ru or vk.com/mrhenschel (2nd method is preferable).
 
-![sufetter](https://streak-stats.demolab.com?user=sufetter&theme=nightowl&hide_border=true)]
+![sufetter](https://streak-stats.demolab.com?user=sufetter&theme=nightowl&hide_border=true)
 
 ![sufetter](https://github-readme-stats.vercel.app/api?username=sufetter&show_icons=true&theme=tokyonight&hide_border=true)
