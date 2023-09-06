@@ -7,4 +7,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sufetter&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufetter&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufetter&show_icons=true&theme=tokyonight&hide_border=true)
