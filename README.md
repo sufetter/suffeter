@@ -6,4 +6,5 @@
 - 📫 How to contact me, my email is --> lobunetsdaniil@yandex.ru or vk.com/mrhenschel (2nd method is preferable).
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sufetter&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufetter&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufetter&show_icons=true&theme=radical)
