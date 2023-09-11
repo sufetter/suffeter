@@ -8,3 +8,4 @@
 ![sufetter](https://streak-stats.demolab.com?user=sufetter&theme=nightowl&hide_border=true)
 
 ![sufetter](https://github-readme-stats.vercel.app/api?username=sufetter&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="600" height="300">
