@@ -1,5 +1,8 @@
-# It's me, Sufetter! <img src="https://media.tenor.com/qOI3iBvktYcAAAAd/giga-chad.gif"  height="50">
-
+<h1 align="center">It's me, Sufetter! 
+  <br/>
+   <br/>
+  <img src="https://media.tenor.com/qOI3iBvktYcAAAAd/giga-chad.gif"  height="100">    <br/><br/></h1>
+ 
 A guy tries to program and not die by looking at his own code
 
 
@@ -27,8 +30,16 @@ C# - Basics
 
 ## 📈 Some My Awesome Stats
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sufetter&theme=nightowl&hide_border=true"  height="200" >
+</p>
 
-<img src="https://streak-stats.demolab.com?user=sufetter&theme=nightowl&hide_border=true"  height="200" >   <img src="https://github-readme-stats.vercel.app/api?username=sufetter&show_icons=true&theme=tokyonight&hide_border=true"  height="200" >
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufetter&layout=compact&theme=tokyonight&hide_border=true"  height="200" > <img src="https://github-readme-stats.vercel.app/api?username=sufetter&show_icons=true&theme=tokyonight&hide_border=true"  height="200" > 
+
+</p>
+
+
 
 
 
