@@ -5,7 +5,9 @@
 - 💞️ I am a Backend developer and would be glad to receive advice and useful information from everyone.
 - 📫 How to contact me, my email is --> lobunetsdaniil@yandex.ru or vk.com/mrhenschel (2nd method is preferable).
 
+<img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-301.gif" height="70%">
+
 ![sufetter](https://streak-stats.demolab.com?user=sufetter&theme=nightowl&hide_border=true)
 
 ![sufetter](https://github-readme-stats.vercel.app/api?username=sufetter&show_icons=true&theme=tokyonight&hide_border=true)
-<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="600" height="300">
+
