@@ -6,6 +6,8 @@
 - 📫 How to contact me, my email is --> lobunetsdaniil@yandex.ru or vk.com/mrhenschel (2nd method is preferable).
 
 <img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-301.gif"  height="400" >
+![image](https://github.com/sufetter/suffeter/assets/95615304/922de862-8f9e-4fe3-b044-072bda6427de)
+
 <p style={{background:red}}>gg</p>
 
 ![sufetter](https://streak-stats.demolab.com?user=sufetter&theme=nightowl&hide_border=true)
