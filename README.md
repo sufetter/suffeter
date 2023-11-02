@@ -41,7 +41,7 @@ JS/TS - Advanced (Fullstack)
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufetter&layout=compact&theme=tokyonight&hide_border=true"  height="200" > <img src="https://github-readme-stats.vercel.app/api?username=sufetter&show_icons=true&theme=tokyonight&hide_border=true"  height="200" > 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufetter&layout=compact&theme=tokyonight&hide_border=true"  height="190" > <img src="https://github-readme-stats.vercel.app/api?username=sufetter&show_icons=true&theme=tokyonight&hide_border=true"  height="190" > 
 
 </p>
 
