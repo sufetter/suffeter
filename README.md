@@ -1,9 +1,15 @@
-<h1 align="center">It's me, Sufetter! 
+<div align="center"><h1>It's me, Sufetter!</h1>
+  
   <br/>
-   <br/>
-  <img src="https://media.tenor.com/qOI3iBvktYcAAAAd/giga-chad.gif"  height="100">    <br/><br/></h1>
+  <img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-301.gif"  height="150" width ="150">
+  <br/>
+ <br/>
+ <h3>A guy tries to program and not die by looking at his own code</h2>
+  
+</div>
+
  
-A guy tries to program and not die by looking at his own code
+
 
 
 ## 🔗 Links
@@ -22,10 +28,10 @@ In my free time I create ~~worthless~~ various pet projects and try to develop m
 ## 🛠 Skills
 Languages:
 
+Go - Intermediate,
 Python - Intermediate,
-JS/TS - Advanced (Fullstack),
-GO - Basic,
-C# - Basics
+JS/TS - Advanced (Fullstack)
+
 
 
 ## 📈 Some My Awesome Stats
