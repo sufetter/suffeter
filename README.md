@@ -4,7 +4,7 @@
   <img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-301.gif"  height="150" width ="150">
   <br/>
  <br/>
- <h3>A guy tries to program and not die by looking at his own code</h2>
+ <h3>A guy who's trying to program and not die looking at his own code</h3>
   
 </div>
 
