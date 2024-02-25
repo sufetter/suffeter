@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-My name is Daniil Lobunets, I am a 3rd year student at BSTU. The main direction is backend development. 
+My name is Daniil Lobunets, I am a 3rd year student at BSTU. The main direction is backend development using Go. 
 I’m also familiar with Frontend (now I work with it as a hobby) and already worked with Next JS, Thustand/Redux and etc.
 In my free time I create ~~worthless~~ various pet projects and try to develop myself.
 
