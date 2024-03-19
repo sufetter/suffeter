@@ -28,9 +28,9 @@ In my free time I create ~~worthless~~ various pet projects and try to develop m
 ## 🛠 Skills
 Languages:
 
-Go - Intermediate,
+Go - Advanced,
 Python - Intermediate,
-JS/TS - Advanced (Fullstack)
+JS/TS - Intermediate (Fullstack)
 
 
 
