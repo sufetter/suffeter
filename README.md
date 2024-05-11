@@ -15,7 +15,7 @@
 ## 🔗 Links
 [![VK](https://img.shields.io/badge/vk-0077ff?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/mrhenschel)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-lobunets/)
-[![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrhenschel)
+[![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sufetter)
 
 
 ## 🚀 About Me
