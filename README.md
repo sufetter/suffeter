@@ -1,7 +1,7 @@
 <div align="center"><h1>It's me, Sufetter!</h1>
   
   <br/>
-  <img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-301.gif"  height="150" width ="150">
+  <img src="https://i.kym-cdn.com/photos/images/original/001/962/659/780.gif"  height="150" width ="150">
   <br/>
  <br/>
  <h3>A guy who's trying to program and not die looking at his own code</h3>
@@ -20,9 +20,8 @@
 
 ## 🚀 About Me
 
-My name is Daniil Lobunets, I am a 3rd year student at BSTU. The main direction is backend development using Go. 
-I’m also familiar with Frontend (now I work with it as a hobby) and already worked with Next JS, Thustand/Redux and etc.
-In my free time I create ~~worthless~~ various pet projects and try to develop myself.
+My name is Daniil Lobunets, I am a 4rd year student at BSTU. The main direction is backend development using Go. 
+At the moment I work in the telecom division (base stations) at YADRO. I continue to actively develop and gain commercial experience.
 
 
 ## 🛠 Skills
@@ -30,20 +29,16 @@ Languages:
 
 Go - Advanced,
 Python - Intermediate,
-JS/TS - Intermediate (Fullstack)
+Frontend - Intermediate, i hope (a long time ago, I specialised in frontend.)
 
 
+## 📈 Pet Projects
 
-## 📈 Some My Awesome Stats
+<p>For obvious reasons, I can't publish the developed commercial code as my pet projects) Also due to full time work and studying at university, there is little time to develop such projects now.</p>
+<p>Nevertheless, I am currently working on my graduation project for the university. It is planned to implement quality functionality taking into account the acquired knowledge.</p>
+<p>P.S. Old pet projects, such as first steps in Go or frontend projects from the old days can be found in the repositories here. So that after looking at my code, you admit that only a true gigachad could have programmed this.</p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sufetter&theme=nightowl&hide_border=true"  height="200" >
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufetter&layout=compact&theme=tokyonight&hide_border=true"  height="190" > <img src="https://github-readme-stats.vercel.app/api?username=sufetter&show_icons=true&theme=tokyonight&hide_border=true"  height="190" > 
-
-</p>
 
 
 
