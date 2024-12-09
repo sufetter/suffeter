@@ -20,8 +20,8 @@
 
 ## 🚀 About Me
 
-My name is Daniil Lobunets, I am a 4rd year student at BSTU. The main direction is backend development using Go. 
-At the moment I work in the telecom division (base stations) at YADRO. I continue to actively develop and gain commercial experience.
+My name is Daniil Lobunets, I am a 4th year student at BSTU. The main direction is backend development using Go. 
+At the moment, I work in the telecom division (base stations) at YADRO. I continue to actively develop and gain commercial experience.
 
 
 ## 🛠 Skills
