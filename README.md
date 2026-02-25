@@ -39,7 +39,8 @@ At the moment, I work in the telecom division - everything related to data trans
 <p hidden></p>
     </td>
     <td width="50%" valign="middle" align="center">
-
+<p>The father of algorithms and regular activity presents</p>
+      
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Sufetter)](https://leetcode.com/u/Sufetter/)
 
 
