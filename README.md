@@ -13,30 +13,49 @@
 
 
 ## 🔗 Links
-[![VK](https://img.shields.io/badge/vk-0077ff?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/mrhenschel)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-lobunets/)
 [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sufetter)
-
+<br/>
 
 ## 🚀 About Me
 
-My name is Daniil Lobunets, I am a 4th year student at BSTU. The main direction is backend development using Go. 
-At the moment, I work in the telecom division (base stations) at YADRO. I continue to actively develop and gain commercial experience.
+My name is Daniil Lobunets, I am a middle software engineer at [![YADRO](YADRO)](https://yadro.com/). The main direction is backend development using Go. 
+At the moment, I work in the telecom division - everything related to data transmission networks and base stations. I continue to actively develop and gain commercial experience.
 
 
 ## 🛠 Skills
-Languages:
 
-Go - Advanced,
-Python - Intermediate,
-Frontend - Intermediate, i hope (a long time ago, I specialised in frontend.)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Languages</h3>
+      
+*   Go - Native
+*   Shell - Medium
+*   Python - Base
 
+<h3>Main Specialisation</h3> 
+<p>The main focus is on developing and integrating new solutions into the product's backend. This includes working with distributed systems, including their design and maintenance.<br/></p>
+<p hidden></p>
+    </td>
+    <td width="50%" valign="middle" align="center">
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sufetter)](https://leetcode.com/u/Sufetter/)
+
+
+<!-- 
+This markdown styling is f hell
+-->
+
+
+  </tr>
+</table>
 
 ## 📈 Pet Projects
 
-<p>For obvious reasons, I can't publish the developed commercial code as my pet projects) Also due to full time work and studying at university, there is little time to develop such projects now.</p>
-<p>Nevertheless, I am currently working on my graduation project for the university. It is planned to implement quality functionality taking into account the acquired knowledge.</p>
-<p>P.S. Old pet projects, such as first steps in Go or frontend projects from the old days can be found in the repositories here. So that after looking at my code, you admit that only a true gigachad could have programmed this.</p>
+<p>For obvious reasons, I can't publish the developed commercial code as my pet projects) After all this work I don't have any energy left for pet projects, but I'm hoping for the best</p>
+<p>At the moment, I'm trying to gain as much experience as possible from work and apply it. Sometimes I pop into LeetCode to solve a couple of problems</p>
+<p>P.S. Old pet projects, such as first steps in Go or frontend projects from the old days can be found in the repositories here. So that after looking at my code, you admit that only a true gigachad could have programmed this</p>
 
 
 
